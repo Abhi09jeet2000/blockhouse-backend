@@ -1,3 +1,3 @@
-Run npm install
+1.Run npm install
 
-python manage.py runserver
+2.python manage.py runserver
