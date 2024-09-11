@@ -1,3 +1,5 @@
+## Clone this repo with frontend repo (https://github.com/Abhi09jeet2000/blockhouse-frontend/tree/main)
+
 1.Run npm install
 
 2.python manage.py runserver
